@@ -25,7 +25,7 @@ const Header = ({ initials }) => (
         rel="noopener noreferrer"
       >
         <FaFileDownload className="inline-block h-6 w-6 lg:hidden" />
-        <span className="hidden lg:block">View my resume</span>
+        <span className="hidden lg:block">Resume</span>
       </a>
     </span>
   </header>

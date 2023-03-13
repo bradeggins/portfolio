@@ -10,7 +10,7 @@ module.exports = {
       {
         resolve: "@wkocjan/gatsby-theme-intro",
         options: {
-          theme: "blue",
+          theme: "dark-blue",
         },
       },
     ],

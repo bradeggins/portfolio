@@ -7,17 +7,25 @@
   relocation: false
   company: Freelancer
   for_hire: true
-  focus: Web Developement
+  focus: Web Application Development
   focus_url: https://linkedin.com/in/bradeggins
   about: |
-    Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution.
+    I am a freelance full stack software developer and I have developed software for a variety of industries, including healthcare, and the government. I have excellent communication skills and I work equally well as a team member or individually. Recently I was solely responsible for the development of a compliance and reporting tool. The timeframe for delivery was very tight and I was successfully able to develop a solution to our clients problem - on time and on budget.
 
-    User generated content in real-time will have multiple touchpoints for offshoring. Keeping your eye on the ball while performing a deep dive on the start-up mentality to derive convergence on cross-platform integration.
+    I am comfortable working across the full technology stack from frontend development to DevOps. I also enjoy working in an agile environment and believe the rituals established are extremely beneficial to the success of the project.
+
+    I have a unique background with extensive experience as an airline pilot. I believe that the skills and experience I have gained as a pilot have given me a valuable perspective as a software developer. My attention to detail, reliability, and ability to think critically in high-pressure situations have all transferred over into my work as a developer.
+
+    Thanks for taking the time to learn a little more about me. I look forward to collaborating with you and using my skills to help bring your projects to life!
   skills:
     - React
-    - Typescript / Javascript
-    - Python / Django
+    - Typescript
+    - Python
   tools:
+    - Django
+    - Postgres
+    - Javascript
+    - Terraform
     - AWS
     - Github Actions
     - Circle CI
