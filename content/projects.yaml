@@ -1,0 +1,29 @@
+- name: Wells Aotearoa New Zealand
+  url: https://wellsnz.teurukahika.nz
+  description: I worked as a developer in a small team on this medium to large project. This is a multi tenanted application designed to integrate records from multiple regional entities. I was solely responsible for design and implementation of a multi tenanted user authentication platform to allow regional entities to leverage their existing single sign-on (SSO) facilities.
+  status: live
+  tags:
+    - React
+    - Typescript
+    - Python
+    - Django
+    - Postgres
+    - AWS
+    - Terraform
+  icon: website
+  image: images/wells.jpg
+
+- name: Synthetic Nitrogen Use Recording Webform
+  url: https://n-cap.teurukahika.govt.nz/
+  description: Regulatory and compliance reporting tool for farm synthetic nitrogen usage. I was solely reponsible for development and meeting very tight project deadlines.
+  status: live
+  tags:
+    - React
+    - Typescript
+    - Python
+    - Django
+    - Postgres
+    - AWS
+    - Terraform
+  icon: website
+  image: images/ncap.jpg
