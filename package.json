@@ -4,6 +4,13 @@
   "description": "My portfolio",
   "main": "index.js",
   "license": "MIT",
+  "scripts": {
+    "clean": "gatsby clean",
+    "develop": "gatsby develop",
+    "build": "gatsby build",
+    "serve": "gatsby serve",
+    "lint": "prettier --write '**/*.js'"
+  },
   "dependencies": {
     "@wkocjan/gatsby-theme-intro": "^2.0.1",
     "gatsby": "3.15.0",
