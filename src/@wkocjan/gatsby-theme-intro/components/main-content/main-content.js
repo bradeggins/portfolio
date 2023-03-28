@@ -11,7 +11,7 @@ import UnderConstruction from "../under-construction/under-construction";
 const MainContent = ({ formspreeEndpoint, history, projects, profile }) => {
   const isUnderConstruction = process.env.GATSBY_UNDER_CONSTRUCTION;
 
-  if (isUnderConstruction === true) {
+  if (isUnderConstruction === 'true') {
     return (
       <main className="h-screen lg:w-2/3 lg:pl-8 xl:pl-12">
         <UnderConstruction />
